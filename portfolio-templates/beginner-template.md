@@ -1,17 +1,17 @@
-# GRC Professional Portfolio: [Your Name]
+# GRC Professional Portfolio: Javien Washington
 
 ## About Me
 
-Hello, I'm [Your Name], a Governance, Risk, and Compliance (GRC) professional with a focus on AWS cloud security. I'm passionate about building secure cloud environments and ensuring compliance with industry standards and regulations.
+Hello, I'm Javien Washington, a Governance, Risk, and Compliance (GRC) professional with a focus on AWS cloud security. I'm passionate about building secure cloud environments and ensuring compliance with industry standards and regulations.
 
 [Brief professional summary: 2-3 sentences about your background, current role, and career interests]
 
 ## Contact Information
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **Location**: [City, State/Country]
+- **Email**: javien.washington2@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/javien-washington/
+- **GitHub**: https://github.com/javien282
+- **Location**: Columbia, Maryland US
 
 ## Professional Summary
 

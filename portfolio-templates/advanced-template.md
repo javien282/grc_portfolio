@@ -226,7 +226,7 @@ def remediate_noncompliant_resource(event, context):
 
 ## Professional Experience
 
-### [Current Position] | [Company] | [Dates]
+### [Current Position] | [Discover ] | [Dates]
 *Brief description of your leadership role and key responsibilities*
 
 **Key Achievements**:
@@ -247,8 +247,8 @@ I'm available for strategic security consulting, speaking engagements, and advis
 
 <div align="center">
   <p>
-    <strong>Email:</strong> your.email@example.com<br>
-    <strong>LinkedIn:</strong> linkedin.com/in/yourprofile<br>
+    <strong>Email:</strong> javien.washington2@gmail.com<br>
+    <strong>LinkedIn:</strong> [Javien Washington](https://www.linkedin.com/in/javien-washington/)<br>
     <strong>Schedule a Meeting:</strong> calendly.com/yourname
   </p>
 </div>

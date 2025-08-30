@@ -21,7 +21,7 @@ Hello, I'm Javien Washington, a Governance, Risk, and Compliance (GRC) professio
 
 ### Cloud Platforms
 - Amazon Web Services (AWS)
-- [Other cloud platforms you have experience with]
+- Microsoft Azure 
 
 ### Security & Compliance
 - AWS Security Services (GuardDuty, Security Hub, IAM, Config)
@@ -37,8 +37,8 @@ Hello, I'm Javien Washington, a Governance, Risk, and Compliance (GRC) professio
 
 ## Certifications
 
-- [Certification Name] - [Issuing Organization] - [Year]
-- [Certification Name] - [Issuing Organization] - [Year]
+- Security+ SY701 - COMPTIA - [2025]
+- AWS Certified Cloud Practitioner - Amazon Web Services (AWS) - [2025]
 - [Add your AWS certifications and other relevant credentials]
 
 ## Projects
@@ -138,5 +138,3 @@ Hello, I'm Javien Washington, a Governance, Risk, and Compliance (GRC) professio
 [Brief paragraph about your short-term and long-term career goals in the GRC field]
 
 ---
-
-*This portfolio was created using the [GRC Portfolio Hub](https://github.com/ajy0127/grc_portfolio) template.* 

@@ -7,7 +7,7 @@
   <p>
     <strong>Email:</strong> javien.washington2@gmail.com<br>
     <strong>LinkedIn:</strong> https://www.linkedin.com/in/javien-washington/<br>
-    <strong>GitHub:</strong> (https://github.com/javien282)
+    <strong>GitHub:</strong> https://github.com/javien282
   </p>
   
   <p>

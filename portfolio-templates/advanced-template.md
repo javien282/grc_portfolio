@@ -1,13 +1,13 @@
 # GRC Professional Portfolio
 
 <div align="center">
-  <h1>[Your Name]</h1>
+  <h1>Javien Washington</h1>
   <p><em>AWS Security & Compliance Specialist</em></p>
   
   <p>
-    <strong>Email:</strong> your.email@example.com<br>
-    <strong>LinkedIn:</strong> linkedin.com/in/yourprofile<br>
-    <strong>GitHub:</strong> github.com/yourusername
+    <strong>Email:</strong> javien.washington2@gmail.com<br>
+    <strong>LinkedIn:</strong> https://www.linkedin.com/in/javien-washington/<br>
+    <strong>GitHub:</strong> [github.com/yourusername](https://github.com/javien282)
   </p>
   
   <p>
